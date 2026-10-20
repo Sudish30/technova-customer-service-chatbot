@@ -1,0 +1,12 @@
+{
+  "configurations": [
+    {
+      "name": "Python: Run chatbot",
+      "type": "python",
+      "request": "launch",
+      "program": "chatbot.py",
+      "console": "integratedTerminal",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
